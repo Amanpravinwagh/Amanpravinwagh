@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amanpravinwagh
+- 👋 Hi, I’m @Aman Wagh
 - 👀 I’m interested in Graphics Design and Web Development
 - 🌱 I’m currently studying Computer Science in a Diploma
 -   I'm currently working on my projects and studying different languages.
