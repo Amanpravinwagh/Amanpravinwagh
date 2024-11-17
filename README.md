@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @Amanpravinwagh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Web development and the future of App development
+- 🌱 I’m currently learning CS in Diploma
+- 💞️ I want to collaborate on YouTube, Instagram, and many more.
+- 📫 How to reach me email me at amanwagh96@gmail.com
+- 😄 Pronouns: Gym, Carguy, Travelling etc.
+- Connect me on 
+- [YouTube](https://www.youtube.com/channel/UCXm1fC-ptOOVv_V9f13lwnA)
+- [Instagram](https://www.instagram.com/aman__wagh?utm_source=qr&igsh=amZueDNsYjdwZndl)
+- [LinkDin](https://www.linkedin.com/in/aman-wagh-b897732b8)
 
 <!---
 Amanpravinwagh/Amanpravinwagh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
