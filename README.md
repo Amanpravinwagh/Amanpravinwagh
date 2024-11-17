@@ -8,6 +8,7 @@
 - [YouTube](https://www.youtube.com/channel/UCXm1fC-ptOOVv_V9f13lwnA)
 - [Instagram](https://www.instagram.com/aman__wagh?utm_source=qr&igsh=amZueDNsYjdwZndl)
 - [LinkDin](https://www.linkedin.com/in/aman-wagh-b897732b8)
+- [LeetCode](https://leetcode.com/aman_pravin_wagh/)
 
 <!---
 Amanpravinwagh/Amanpravinwagh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
