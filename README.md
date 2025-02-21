@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amanpravinwagh
-- 👀 I’m interested in Web development and the future of App development
+- 👀 I’m interested in Web development and the future in App development
 - 🌱 I’m currently learning CS in Diploma
 - 💞️ I want to collaborate on YouTube, Instagram, and many more.
 - 📫 How to reach me email me at amanwagh96@gmail.com
