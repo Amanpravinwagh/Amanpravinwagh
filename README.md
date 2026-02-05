@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Amanpravinwagh<br>- 👀 I’m interested in Web development and the future in App development<br>- 🌱 I’m currently purchasing my btech from gh raisoni jalgaon<br>- 💞️ I want to collaborate on YouTube, Instagram, and many more.<br>- 📫 How to reach me email me at amanwagh96@gmail.com<br>- 😄 Pronouns: Gym, Carguy, Travelling etc.<br>- Connect me on <br>- [YouTube](https://www.youtube.com/channel/UCXm1fC-ptOOVv_V9f13lwnA)<br>- [Instagram](https://www.instagram.com/aman__wagh?utm_source=qr&igsh=amZueDNsYjdwZndl)<br>- [LinkDin](https://www.linkedin.com/in/aman-wagh-b897732b8)<br>- [LeetCode](https://leetcode.com/aman_pravin_wagh/)<br>
+- 👋 Hi, I’m @Amanpravinwagh<br>- 👀 I’m interested in Web development and the future in App development<br>- 🌱 I’m currently purchasing my btech from gh raisoni jalgaon<br>- 💞️ I want to collaborate on YouTube, Instagram, and many more.<br>- 📫 How to reach me email me at amanwagh96@gmail.com<br>- 😄 Pronouns: Gym, Carguy, Travelling etc.
 
 
 ## 🌐 Socials:
